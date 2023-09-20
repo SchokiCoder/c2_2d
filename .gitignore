@@ -1,0 +1,7 @@
+*.o
+gui/*.o
+engine/*.o
+chemarium
+chemarium_d
+log.txt
+output/
